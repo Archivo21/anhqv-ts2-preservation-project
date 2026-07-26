@@ -1,0 +1,65 @@
+name: Source suggestion
+description: Suggest a website, episode, publication, person, object, or technical source.
+title: "[Source]: "
+labels: []
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Source title or identifier
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Where it can be found
+      description: URL, episode, publication details, physical edition, person, or archive location.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: form
+    attributes:
+      label: Source form
+      options:
+        - Audiovisual
+        - Website or online publication
+        - Print
+        - Physical media
+        - Software or game file
+        - Person or interview
+        - Dataset or catalogue
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Research value
+      description: What questions could this source help answer?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reliability
+    attributes:
+      label: Reliability and limitations
+      description: What is known about authorship, provenance, bias, completeness, or uncertainty?
+
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights and access notes
+      description: State any licence, permission, paywall, private access, personal data, or copying restriction.
+
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Submission check
+      options:
+        - label: I understand that registering a source does not grant permission to copy it.
+          required: true
+        - label: I agree to follow the Code of Conduct.
+          required: true
