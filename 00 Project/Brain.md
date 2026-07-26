@@ -87,8 +87,8 @@ Changing our minds is progress.
 
 ## Current Public State
 
-The repository is preparing a v0.1 Research Preview.
+The repository is publicly available as an early v0.1 Research Preview at `https://github.com/Archivo21/anhqv-ts2-preservation-project`.
 
-The documentation and institutional framework are suitable for public inspection and early collaboration. The neighbourhood and EXP001 media are not yet public-release artefacts.
+A formal `v0.1.0` GitHub Release remains pending completion and review of the initial repository-hardening corrections. The documentation and institutional framework are suitable for public inspection and early collaboration. The playable neighbourhood and preserved raw EXP001 media are not public-release artefacts.
 
 The immediate recruitment priority is a Video Editor Specialist who can create honest, concise demonstrations from preserved raw recordings.
