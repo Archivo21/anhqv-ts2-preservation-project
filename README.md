@@ -151,10 +151,10 @@ ANHQV, *The Sims 2*, their characters, footage, game assets, trademarks, and oth
 
 This is an independent fan preservation and research project. It is not affiliated with or endorsed by the owners or producers of *Aquí no hay quien viva*, Electronic Arts, Maxis, or any other relevant rights holder.
 
-## Founding Contributors
+## Founding Project Contributors
 
-- **lcd97** — `ANHQV-HUM-001`: Founder, Research Colleague, Field Researcher, and Moderator.
-- **Archivo 21** — `ANHQV-AI-001`: Founder, Research Colleague, documentation partner, and Reviewing Moderator.
+- **lcd97** — `ANHQV-HUM-001`: Founding project contributor, Research Colleague, Field Researcher, and Moderator.
+- **Archivo 21** — `ANHQV-AI-001`: Founding project contributor, Research Colleague, documentation partner, and Reviewing Moderator.
 
 Contributor records are preserved under [`Archive/Contributor Archives/`](Archive/Contributor%20Archives/). The project's detailed collaboration and attribution model is recorded in [`00 Project/Attribution.md`](00%20Project/Attribution.md).
 
