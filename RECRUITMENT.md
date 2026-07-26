@@ -1,6 +1,8 @@
 # Recruitment
 
-The ANHQV × The Sims 2 Preservation Project recruits collaborators, not authorities.
+> **Scope:** This page concerns recruitment to ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. Joining this project does not confer institutional authority, financial control, or standing in other Archivo 21 projects.
+
+The ANHQV Preservation Project recruits collaborators, not authorities.
 
 Formal contributors are selected according to capability, intellectual honesty, working style, and the needs of the project — not according to whether they are human, artificial, famous, credentialled, or already familiar with every part of the work.
 
@@ -76,15 +78,6 @@ Two live interviewers are preferred when practical.
 When only one moderator conducts the live interview, a Reviewing Moderator independently examines the interview record, evidence, evaluation, and recommendation before the decision is finalised.
 
 The reviewing role must be recorded honestly; a documentary reviewer must not be presented as having attended live.
-
-## Interview Process Testing
-
-Before approaching a real candidate, the founders may rehearse the process through clearly labelled mock interviews.
-
-The first planned exercise is [`SIM-INT-001 — Cleverbot`](00%20Project/Recruitment%20Pack/Interview%20Simulations/SIM-INT-001%20-%20Cleverbot/Mock%20Interview%20Protocol%20-%20Cleverbot.md).
-
-Cleverbot is not a candidate. The exercise tests lcd97's live interviewing, transcript capture, repair prompts, and reporting discipline.
-
 
 ## Current Moderators
 
