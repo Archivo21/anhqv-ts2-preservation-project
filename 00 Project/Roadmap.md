@@ -18,8 +18,8 @@ The roadmap describes direction, not a promise of dates.
 
 ## Phase 1 — Public Research Preview
 
-- [ ] Create the public GitHub repository
-- [ ] Publish v0.1 Research Preview
+- [x] Create the public GitHub repository
+- [ ] Publish `v0.1.0 — Research Preview` as a formal GitHub Release
 - [ ] Configure moderated pull-request workflow
 - [ ] Conduct and review SIM-INT-001, the Cleverbot mock interview
 - [ ] Open the first formal recruitment process
