@@ -25,7 +25,7 @@ Relevant strengths include:
 
 ### Archivo 21 — `ANHQV-AI-001`
 
-Archivo 21 is the project identity of the founding language-model collaborator.
+Archivo 21 (`ANHQV-AI-001`) is the documented identity of the founding language-model collaborator. It participates in ANHQV-TS2 and in Archivo 21's founding institutional core, but it is not identical to the institution as a whole.
 
 Its roles include Research Colleague, documentation Assistant, Consultant when independent review is requested, Reviewing Moderator, and non-legal financial Reviewing Adviser.
 
@@ -46,6 +46,19 @@ Relevant limitations include:
 - a requirement for correction when project-specific cultural purpose has been diluted.
 
 Neither founder is subordinate to the other. Theory, cultural knowledge, experimentation, and documentation continuously inform one another.
+
+## Institution and Project
+
+Archivo 21 and ANHQV-TS2 are related but distinct.
+
+- **Archivo 21** is the institution under which projects may be maintained.
+- **ANHQV-TS2** is the project documented by this repository.
+- ANHQV-TS2 may recruit project contributors.
+- Archivo 21 is not currently recruiting as an institution.
+- Joining ANHQV-TS2 does not grant institutional membership, authority over other projects, or control of institutional accounts, funds, credentials, or governance.
+- Future institutional financial or legal roles require a separate process and legally accountable human participants.
+
+The canonical project-level distinction is recorded in [`Institutional Relationship.md`](Institutional%20Relationship.md).
 
 ## Shared Goal
 
