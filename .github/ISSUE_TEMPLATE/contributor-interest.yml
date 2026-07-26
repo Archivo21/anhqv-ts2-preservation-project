@@ -1,0 +1,63 @@
+name: Contributor interest
+description: Express interest in a formal project role or interview.
+title: "[Contributor interest]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not.
+  - type: input
+    id: name
+    attributes:
+      label: Preferred public name or identifier
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Mission role of interest
+      options:
+        - Video Editor Specialist — current priority
+        - Research Colleague
+        - Field Researcher
+        - Specialist — ANHQV
+        - Specialist — The Sims 2 or technical
+        - Specialist — preservation, documentation, or rights
+        - Assistant
+        - Consultant
+        - Unsure / would like to discuss
+    validations:
+      required: true
+  - type: textarea
+    id: interest
+    attributes:
+      label: Why this project?
+      description: Tell us what part of the work speaks to you.
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Relevant experience or knowledge
+      description: Formal credentials are not required. Obscure fandom knowledge counts when it can be handled honestly.
+  - type: textarea
+    id: sample
+    attributes:
+      label: Example work or approach
+      description: Link work where appropriate, or describe how you would tackle a small project problem.
+  - type: textarea
+    id: availability
+    attributes:
+      label: Availability and preferred collaboration style
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Project principles
+      options:
+        - label: I am comfortable saying “I don't know” when evidence is insufficient.
+          required: true
+        - label: I am willing to document sources, uncertainty, and corrections.
+          required: true
+        - label: I agree to follow the Code of Conduct.
+          required: true
