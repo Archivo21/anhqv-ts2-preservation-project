@@ -1,0 +1,50 @@
+name: Experiment proposal
+description: Propose a controlled Sims 2 or reconstruction experiment.
+title: "[Experiment]: "
+labels: []
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: What specific unknown should the experiment reduce?
+    validations:
+      required: true
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hypothesis or competing explanations
+      description: It is acceptable to state that no preferred hypothesis exists.
+  - type: textarea
+    id: variables
+    attributes:
+      label: Variables and controls
+      description: What changes, what stays constant, and what could confound the result?
+    validations:
+      required: true
+  - type: textarea
+    id: procedure
+    attributes:
+      label: Minimum useful procedure
+      description: Describe the smallest reproducible test.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence to record
+      description: Screenshots, video, measurements, packages, logs, or observations.
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks and recovery
+      description: Include save corruption, irreversible edits, privacy, or rights concerns.
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Submission check
+      options:
+        - label: The proposal changes as few variables as practical.
+          required: true
+        - label: I agree to follow the Code of Conduct.
+          required: true
