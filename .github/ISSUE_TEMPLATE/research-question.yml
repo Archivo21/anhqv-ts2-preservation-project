@@ -1,0 +1,54 @@
+name: Research question
+description: Record a focused question about ANHQV, The Sims 2, or the reconstruction.
+title: "[Question]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Good questions are contributions. State what is unknown and why it matters.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Write one clear research question.
+      placeholder: What exactly are we trying to discover?
+    validations:
+      required: true
+  - type: dropdown
+    id: subject
+    attributes:
+      label: Primary subject
+      options:
+        - ANHQV canon, continuity, dialogue, or culture
+        - The Sims 2 engine or gameplay
+        - Architecture or reconstruction
+        - Preservation, sources, or rights
+        - Contributor process or documentation
+        - Cross-disciplinary / more than one area
+    validations:
+      required: true
+  - type: textarea
+    id: current-knowledge
+    attributes:
+      label: What is already known?
+      description: Separate observation, memory, inference, and speculation.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Existing evidence or leads
+      description: Include episodes, timestamps, files, experiments, source records, or links.
+  - type: textarea
+    id: investigation
+    attributes:
+      label: Suggested way to investigate
+      description: Propose the smallest useful next step where possible.
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Submission check
+      options:
+        - label: I have distinguished what I know from what I suspect.
+          required: true
+        - label: I agree to follow the Code of Conduct.
+          required: true
