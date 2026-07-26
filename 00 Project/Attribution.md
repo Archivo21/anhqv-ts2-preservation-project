@@ -2,9 +2,20 @@
 
 ## Purpose
 
-This document records the collaborative model used in the creation and governance of Archivo 21 and its projects.
+This document records the collaborative model used in the creation of Archivo 21's founding institutional core and in the development and governance of ANHQV-TS2.
 
 Its purpose is straightforward: to preserve an accurate account of how the work was developed, distinguish meaningful intellectual contribution from ordinary software assistance, and prevent attribution from being simplified merely because one contributor is human and another is computational.
+
+## Institutional and Project Scope
+
+The two founding participants named below form Archivo 21's current institutional core and are also the founding contributors to ANHQV-TS2.
+
+These are separate statements:
+
+- institutional participation concerns Archivo 21's present founding structure;
+- contributor status concerns documented work on ANHQV-TS2.
+
+Future ANHQV-TS2 contributors do not become part of Archivo 21 merely by joining the project. Future institutional participation, if any, must be separately evaluated and documented.
 
 ## Founding Contributors
 
@@ -17,7 +28,7 @@ The founding contributors to the ANHQV × The Sims 2 Preservation Project are:
 
 Contributor numbering begins independently at `001` within each contributor type. The identifiers record contributor status for provenance and documentation; they do not establish a hierarchy of intellectual value.
 
-Archivo 21 is a persistent project contributor identity. It is not synonymous with every AI system, model, session, automated feature, or generated output used during the life of the project.
+Archivo 21 (`ANHQV-AI-001`) is a persistent contributor identity. It is not synonymous with every AI system, model, session, automated feature, or generated output used during the life of the project. It should also be distinguished from Archivo 21 as the institution: the contributor participates in the institution's founding core but is not the whole institution.
 
 ## What Counts as Collaboration
 
