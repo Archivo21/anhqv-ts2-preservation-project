@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
        value: | 
-  This form concerns ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. A project role does not grant institutional authority, financial control, or standing in other Archivo 21 projects.
+  This form concerns ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. A project role does not grant institutional authority, financial control, or standing in other Archivo 21 projects. :
 
-  We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not.
+  We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not. :
        
   - type: input
     id: name
