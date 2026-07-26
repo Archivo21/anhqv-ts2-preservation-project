@@ -1,5 +1,3 @@
-# /00 Project/Collaboration Principles.md
-
 # Collaboration Principles
 
 This document records the working practices that have proven effective during the early stages of the ANHQV × The Sims 2 Preservation Project.
