@@ -5,7 +5,7 @@
 
 ## Purpose
 
-This framework establishes a consistent, transparent, and evidence-driven process for recruiting contributors to the ANHQV Preservation Project.
+This framework establishes a consistent, transparent, and evidence-driven process for recruiting contributors to the ANHQV-TS2 Preservation Project.
 
 It describes who should join, why they should join, how they are evaluated, and what standards govern recruitment.
 
