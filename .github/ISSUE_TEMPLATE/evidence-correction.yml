@@ -1,0 +1,58 @@
+name: Evidence correction
+description: Correct a factual, evidential, citation, or certainty problem.
+title: "[Correction]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are progress. Please identify the exact statement and the evidence that requires a change.
+  - type: input
+    id: location
+    attributes:
+      label: Document or path
+      placeholder: 05 Evidence/... or a direct GitHub link
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current statement
+      description: Quote or summarise the material that needs correction.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+      description: State the smallest defensible replacement.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Include precise episode timestamps, experiment runs, files, source records, or other verification.
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - Typographical or naming correction
+        - Citation or provenance correction
+        - Certainty level is too strong or too weak
+        - Factual correction with limited scope
+        - Correction affects several documents or conclusions
+    validations:
+      required: true
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Submission check
+      options:
+        - label: I have not replaced one unsupported certainty with another.
+          required: true
+        - label: I agree to follow the Code of Conduct.
+          required: true
