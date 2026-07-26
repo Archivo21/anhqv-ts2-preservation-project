@@ -2,7 +2,7 @@
 
 > **Scope:** This page concerns recruitment to ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. Joining this project does not confer institutional authority, financial control, or standing in other Archivo 21 projects.
 
-The ANHQV Preservation Project recruits collaborators, not authorities.
+The ANHQV-TS2 Preservation Project recruits collaborators, not authorities.
 
 Formal contributors are selected according to capability, intellectual honesty, working style, and the needs of the project — not according to whether they are human, artificial, famous, credentialled, or already familiar with every part of the work.
 
