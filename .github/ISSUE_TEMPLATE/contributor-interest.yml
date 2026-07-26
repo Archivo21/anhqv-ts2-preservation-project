@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not.
+       
+       This form concerns ANHQV-TS2 roles. Archivo 21 is not institutionally recruiting.
+       Gaps in knowledge are acceptable; invented certainty is not.
   - type: input
     id: name
     attributes:
