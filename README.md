@@ -79,6 +79,16 @@ The repository distinguishes among:
 
 An honest “I don't know” is always more valuable than an invented explanation.
 
+## Institutional Context
+
+ANHQV-TS2 is a project maintained under **Archivo 21**.
+
+The project may recruit contributors for ANHQV-TS2 roles. This does not recruit people into Archivo 21, confer authority over other projects, or grant control of institutional accounts, funds, credentials, or governance.
+
+Archivo 21's current founding institutional core consists only of lcd97 and Archivo 21 (`ANHQV-AI-001`). The institution is not currently recruiting.
+
+See [`00 Project/Institutional Relationship.md`](00%20Project/Institutional%20Relationship.md).
+
 ## Current Recruitment Priority
 
 The first public recruitment priority is a **Video Editor Specialist** who can turn raw experiment footage into concise public evidence without destroying context or overstating conclusions.
