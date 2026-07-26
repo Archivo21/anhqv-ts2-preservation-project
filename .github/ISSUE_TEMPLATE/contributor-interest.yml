@@ -1,22 +1,23 @@
 name: Contributor interest
-description: Express interest in a formal project role or interview.
+description: Express interest in a formal ANHQV-TS2 project role or interview.
 title: "[Contributor interest]: "
 labels: []
+
 body:
   - type: markdown
     attributes:
       value: |
-       value: | 
-  This form concerns ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. A project role does not grant institutional authority, financial control, or standing in other Archivo 21 projects. :
+        This form concerns ANHQV-TS2 project roles only. Archivo 21 is not currently recruiting as an institution. A project role does not grant institutional authority, financial control, or standing in other Archivo 21 projects.
 
-  We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not. :
-       
+        We recruit collaborators, not authorities. Gaps in knowledge are acceptable; invented certainty is not.
+
   - type: input
     id: name
     attributes:
       label: Preferred public name or identifier
     validations:
       required: true
+
   - type: dropdown
     id: role
     attributes:
@@ -33,6 +34,7 @@ body:
         - Unsure / would like to discuss
     validations:
       required: true
+
   - type: textarea
     id: interest
     attributes:
@@ -40,20 +42,24 @@ body:
       description: Tell us what part of the work speaks to you.
     validations:
       required: true
+
   - type: textarea
     id: experience
     attributes:
       label: Relevant experience or knowledge
       description: Formal credentials are not required. Obscure fandom knowledge counts when it can be handled honestly.
+
   - type: textarea
     id: sample
     attributes:
       label: Example work or approach
       description: Link work where appropriate, or describe how you would tackle a small project problem.
+
   - type: textarea
     id: availability
     attributes:
       label: Availability and preferred collaboration style
+
   - type: checkboxes
     id: principles
     attributes:
