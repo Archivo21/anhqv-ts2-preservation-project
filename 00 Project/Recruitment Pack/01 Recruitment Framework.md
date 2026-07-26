@@ -5,9 +5,11 @@
 
 ## Purpose
 
-This framework establishes a consistent, transparent, and evidence-driven process for recruiting contributors to the ANHQV × The Sims 2 Preservation Project.
+This framework establishes a consistent, transparent, and evidence-driven process for recruiting contributors to the ANHQV Preservation Project.
 
 It describes who should join, why they should join, how they are evaluated, and what standards govern recruitment.
+
+This framework applies only to ANHQV-TS2 project participation. It does not recruit people into Archivo 21 as an institution, assign authority over other Archivo 21 projects, or create institutional financial or legal roles.
 
 ## Project Mission
 
