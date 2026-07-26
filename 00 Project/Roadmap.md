@@ -11,7 +11,7 @@ The roadmap describes direction, not a promise of dates.
 - [x] Founder contributor archives
 - [x] Initial source registry
 - [x] Public participation files
-- [x] initial public upload hardening
+- [x] Initial public upload hardening
 - [x] Initial financial-governance framework
 - [x] Mock-interview protocol for process rehearsal
 - [x] Public links for three clean EXP001 recordings
