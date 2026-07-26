@@ -6,9 +6,21 @@ Git history records ordinary development. This changelog records public mileston
 
 ## Unreleased
 
+### Added
+
+- Public GitHub repository established at `Archivo21/anhqv-ts2-preservation-project`.
+- Detailed human–AI collaboration and attribution record.
+
+### Fixed
+
+- Restored `.gitattributes`, `.gitignore`, GitHub issue forms, and the pull-request template omitted by the initial browser upload.
+- Removed the accidentally duplicated `anhqv-ts2-preservation-project/` tree from the repository root.
+- Corrected pre-publication wording in the README, Project Brain, roadmap, release record, and citation metadata.
+- Removed the accidental path-style heading from `Collaboration Principles.md`.
+
 ### Planned
 
-- Create the GitHub repository and publish the v0.1 Research Preview.
+- Publish the formal `v0.1.0 — Research Preview` GitHub Release after review.
 - Inventory all raw experiment videos held in lcd97's complete local working copy.
 - Interview a Video Editor Specialist.
 - Produce a public EXP001 demonstration without replacing the raw evidence.
