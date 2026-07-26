@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "Please cite the ANHQV × The Sims 2 Preservation Project using this metadata. Add the GitHub URL and a release DOI when they become available."
+message: "Please cite the ANHQV × The Sims 2 Preservation Project using this metadata. A release DOI will be added if a future archival deposit or release service provides one."
 type: dataset
 title: "ANHQV × The Sims 2 Preservation Project"
 version: "0.1.0"
-date-released: 2026-07-26
 license: CC-BY-SA-4.0
+repository-code: "https://github.com/Archivo21/anhqv-ts2-preservation-project"
+url: "https://github.com/Archivo21/anhqv-ts2-preservation-project"
 authors:
   - name: "lcd97"
   - name: "Archivo 21"

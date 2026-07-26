@@ -1,0 +1,40 @@
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Python tooling used for repository maintenance
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local archives and transfer bundles
+*.7z
+*.rar
+*.zip
+
+# Raw audiovisual evidence: preserve locally and inventory it, but do not push it to GitHub
+*.mkv
+*.avi
+08 Assets/Videos/**/raw/
+
+# Optional local Sims 2 working environments kept inside the repository root
+/local-game/
+/working-game/
+/The Sims 2/
+/EA Games/
+
+# Common Sims 2 cache and transient files
+Groups.cache
+Accessory.cache
+cigen.package
+ContentRegistry
+*.bak
+*.backup
+*.cache

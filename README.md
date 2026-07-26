@@ -146,8 +146,8 @@ This is an independent fan preservation and research project. It is not affiliat
 - **lcd97** — `ANHQV-HUM-001`: Founder, Research Colleague, Field Researcher, and Moderator.
 - **Archivo 21** — `ANHQV-AI-001`: Founder, Research Colleague, documentation partner, and Reviewing Moderator.
 
-Contributor records are preserved under [`Archive/Contributor Archives/`](Archive/Contributor%20Archives/).
+Contributor records are preserved under [`Archive/Contributor Archives/`](Archive/Contributor%20Archives/). The project's detailed collaboration and attribution model is recorded in [`00 Project/Attribution.md`](00%20Project/Attribution.md).
 
 ## Citation
 
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff). Repository URLs and persistent identifiers should be added after the GitHub repository and first archival release exist.
+Citation metadata is provided in [`CITATION.cff`](CITATION.cff). The public repository URL is recorded there. A persistent identifier will be added only if a future archival deposit or release service issues one.
