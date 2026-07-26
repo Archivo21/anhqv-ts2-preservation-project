@@ -21,7 +21,7 @@ The roadmap describes direction, not a promise of dates.
 - [x] Create the public GitHub repository
 - [ ] Publish `v0.1.0 — Research Preview` as a formal GitHub Release
 - [ ] Configure moderated pull-request workflow
-- [ ] Conduct and review SIM-INT-001, the Cleverbot mock interview
+- [x] Conduct and review SIM-INT-001, the Cleverbot mock interview
 - [ ] Open the first formal recruitment process
 - [ ] Interview a Video Editor Specialist
 - [ ] Produce a public-safe EXP001 edit and edit log
