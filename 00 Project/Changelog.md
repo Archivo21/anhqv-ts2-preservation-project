@@ -6,6 +6,24 @@ Git history records ordinary development. This changelog records public mileston
 
 ## Unreleased
 
+### Changed
+
+- The three short built-in-recorder tests formerly grouped with EXP001 were reclassified as EXP000 because they test recording quality rather than the two-click-foundation hypothesis.
+- Direct platform URLs for the three EXP000 review copies were removed from the public project documentation. The approved original Short remains embedded as public evidence on Archivo 21's EXP000 page; the other review copies may be shared directly with prospective editors.
+
+### Fixed
+
+- Updated the roadmap, release record, changelog, and citation metadata after publication of the formal `v0.1.0 — Research Preview` GitHub Release on 2026-07-26.
+
+### Planned
+
+- Inventory all raw experiment videos held in lcd97's complete local working copy.
+- Interview a Video Editor Specialist.
+- Produce a public EXP001 demonstration without replacing the raw evidence.
+- Complete the EXP001 field report and conclusions.
+
+## v0.1.0 — 2026-07-26
+
 ### Added
 
 - Public GitHub repository established at `Archivo21/anhqv-ts2-preservation-project`.
@@ -60,15 +78,6 @@ Git history records ordinary development. This changelog records public mileston
 - Three raw recordings in the transfer snapshot were inventoried by path, size, duration, and SHA-256 checksum.
 - Three clean EXP001 YouTube viewing copies were linked and distinguished from additional local recordings requiring editing.
 - Additional original recordings omitted from the transfer snapshot remain in lcd97's local custody and require inventory.
-
-### Planned
-
-- Publish the formal `v0.1.0 — Research Preview` GitHub Release after final review.
-- Add the actual release date to `CITATION.cff` only after the formal GitHub Release exists.
-- Inventory all raw experiment videos held in lcd97's complete local working copy.
-- Interview a Video Editor Specialist.
-- Produce a public EXP001 demonstration without replacing the raw evidence.
-- Complete the EXP001 field report and conclusions.
 
 ## Changelog Principles
 

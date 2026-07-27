@@ -61,7 +61,7 @@ A new visitor can understand the project quickly by reading:
 6. [ANHQV.eu Source Record](11%20Sources/Records/web/anhqv-eu.md)
 7. [EXP001 — Two-Click Foundations](02%20Field%20Reports/EXP001%20-%20Two%20Click%20Foundations/README.md)
 
-EXP001 is ongoing. Three clean recordings are already available as public viewing copies on YouTube. Additional raw recordings remain in lcd97's local custody and require editing before publication. See the [EXP001 video record](08%20Assets/Videos/EXP001%20-%20Two%20Click%20Foundations/README.md) and [video evidence policy and inventory](08%20Assets/Videos/README.md).
+EXP001 is ongoing. The three short built-in-recorder tests previously grouped with it are classified as EXP000: they test recording quality, not the two-click-foundation hypothesis. Additional raw recordings remain in lcd97's local custody and require file-level reconciliation and editing before publication. See the [EXP000 video record](08%20Assets/Videos/EXP000%20-%20In%20Game%20Capture%20Engine%20Fail/README.md) and [video evidence policy and inventory](08%20Assets/Videos/README.md).
 
 ## Research Method
 
@@ -122,15 +122,11 @@ GitHub is the public research and collaboration layer, not the only archive of i
 
 Edited demonstrations may later be distributed through releases, an approved media archive, or another documented channel.
 
-### Public EXP001 viewing copies
+### Recording access
 
-The following clean recordings are already available:
+Three clean EXP000 test recordings are retained by the project. Their platform URLs are not listed in the public project documentation, but review copies may be shared directly with prospective editors.
 
-- [Part 1, not much happens](https://youtu.be/yIJwDfNiqNk)
-- [Part 2, everything that has happened so far](https://youtu.be/aWdPX8TPBnc)
-- [This will be your FAVE](https://www.youtube.com/shorts/DAx4VmzhBHI)
-
-These platform copies are useful for access and review. They are not assumed to be preservation masters, and their exact mapping to locally held source files remains to be documented.
+The original *This will be your FAVE* Short is embedded as public evidence on [Archivo 21's EXP000 page](https://archivo21.org/research/exp000/). These platform copies are useful for access and review, but they are not assumed to be preservation masters and their exact mapping to locally held source files remains to be documented.
 
 ## Funding and Project Continuity
 

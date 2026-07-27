@@ -9,7 +9,7 @@ Original project documentation is offered under **CC BY-SA 4.0**, to the extent 
 
 Third-party material is excluded and retains its own legal status.
 
-Raw MKV and AVI experiment recordings are not committed to the initial GitHub repository. Three clean EXP001 viewing copies already hosted on YouTube are linked from the repository.
+Raw MKV and AVI experiment recordings are not committed to the initial GitHub repository. Three clean built-in-recorder tests are classified as EXP000; direct platform URLs are reserved for controlled review, except for the original Short embedded as public evidence on Archivo 21's EXP000 page.
 
 ## Licensing Rationale
 
@@ -32,7 +32,7 @@ The initial public repository therefore contains:
 - an inventory and checksums;
 - experiment documentation;
 - media policy;
-- links to existing clean public viewing copies;
+- a public evidential embed for the approved EXP000 Short and controlled review access for the other platform copies;
 - future edit logs and approved exports.
 
 It does not contain the raw MKV and AVI files.

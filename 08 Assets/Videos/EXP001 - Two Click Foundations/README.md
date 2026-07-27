@@ -1,18 +1,12 @@
 # EXP001 — Two-Click Foundations Video Evidence
 
-## Public Viewing Copies
+## Media Status
 
-Three clean EXP001 recordings are publicly available on YouTube:
+No public viewing copies are currently catalogued for EXP001.
 
-| Title | Public URL | Audio status | Preservation status |
-|---|---|---|---|
-| Part 1, not much happens | <https://youtu.be/yIJwDfNiqNk> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
-| Part 2, everything that has happened so far | <https://youtu.be/aWdPX8TPBnc> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
-| This will be your FAVE | <https://www.youtube.com/shorts/DAx4VmzhBHI> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
+The three short built-in-recorder tests formerly grouped with this experiment are classified as EXP000 because they test capture quality rather than the two-click-foundation hypothesis.
 
-These are separate from the additional local recordings described as containing incidental personal audio or abandoned commentary.
-
-The exact mapping between each YouTube upload and the locally held source filename should be documented during the complete local-media reconciliation.
+Candidate EXP001 footage must be mapped at file level before any public demonstration is claimed.
 
 ## Additional Local Recordings
 

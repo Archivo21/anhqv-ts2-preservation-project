@@ -14,12 +14,12 @@ The roadmap describes direction, not a promise of dates.
 - [x] Initial public upload hardening
 - [x] Initial financial-governance framework
 - [x] Mock-interview protocol for process rehearsal
-- [x] Public links for three clean EXP001 recordings
+- [x] Three clean built-in-recorder tests documented and later classified as EXP000
 
 ## Phase 1 — Public Research Preview
 
 - [x] Create the public GitHub repository
-- [ ] Publish `v0.1.0 — Research Preview` as a formal GitHub Release
+- [x] Publish `v0.1.0 — Research Preview` as a formal GitHub Release
 - [ ] Configure moderated pull-request workflow
 - [x] Conduct and review SIM-INT-001, the Cleverbot mock interview
 - [x] Open the first formal ANHQV-TS2 recruitment process

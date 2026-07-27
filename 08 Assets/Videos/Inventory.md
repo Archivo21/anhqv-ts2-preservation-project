@@ -14,19 +14,19 @@ This inventory records video evidence found in the working-repository transfer s
 | `08 Assets/Videos/EXP001 - Two Click Foundation/2026-07-24 20-54-02.mkv` | 271.7 MiB | 12:26.62 | `1cd5d147bd5ffe83d914a2d6489e33b7e1b30be04710a7207aff58c1298e15a9` | Local raw evidence; withheld from GitHub pending review or editing |
 | `08 Assets/Videos/EXP001 - Two Click Foundation/2026-07-25 05-34-35.mkv` | 108.6 MiB | 4:30.68 | `4f24142be1e122a2dec99480ee2af741865688b4b2420f881b5aca2f9abd2a04` | Local raw evidence; withheld from GitHub pending review or editing |
 
-## Public Viewing Copies
+## EXP000 Viewing Copies
 
-Three clean EXP001 recordings are publicly available on YouTube:
+Three clean built-in-recorder tests are classified as EXP000:
 
-| Title | Public URL | Audio status | Preservation status |
+| Title | Access | Audio status | Preservation status |
 |---|---|---|---|
-| Part 1, not much happens | <https://youtu.be/yIJwDfNiqNk> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
-| Part 2, everything that has happened so far | <https://youtu.be/aWdPX8TPBnc> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
-| This will be your FAVE | <https://www.youtube.com/shorts/DAx4VmzhBHI> | Clean / PEGI 0 | Public access copy; not assumed to be a preservation master |
+| Part 1, not much happens | Direct review copy | Clean / PEGI 0 | Platform access copy; not assumed to be a preservation master |
+| Part 2, everything that has happened so far | Direct review copy | Clean / PEGI 0 | Platform access copy; not assumed to be a preservation master |
+| This will be your FAVE | [Embedded on the institutional EXP000 page](https://archivo21.org/research/exp000/) | Clean / PEGI 0 | Platform access copy; not assumed to be a preservation master |
 
 These are separate from the additional local recordings described as containing incidental personal audio or abandoned commentary.
 
-The exact mapping between each YouTube upload and the locally held source filename should be documented during the complete local-media reconciliation.
+The exact mapping between each platform copy and the locally held source filename should be documented during the complete local-media reconciliation.
 
 ## Additional Local Material
 
